@@ -1,0 +1,3 @@
+pytoniq==0.1.29
+environs==10.3.0
+requests~=2.31.0
